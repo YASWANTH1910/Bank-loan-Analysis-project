@@ -30,42 +30,33 @@ Home Ownership and Last Payment Trends:
 Increased activity in mortgage and rent categories from October to December.
 Recommendation: Investigate housing needs in the "Other" category for potential product offerings.
 
-Challenges Encountered:
-
+**Challenges Encountered:**
 Data inconsistencies and formatting issues (e.g., mismatched date formats and column names).
 Duplicate or missing records affecting data accuracy.
 Complex merging criteria due to the lack of a single common identifier.
 
-Dashboards:
-
+**Dashboards:**
 Excel Dashboard: Visualized year-wise loan data, grade performance, and loan status.
 Power BI Dashboard: Integrated dynamic visualizations for state-wise and monthly loan performance.
 Tableau Dashboard: Provided advanced visuals for revolving balances and payment statuses.
 
-SQL Utilization:
-
+**SQL Utilization:**
 Extracted and preprocessed data for analysis, highlighting payment trends and loan disbursement details.
 
-Risk Management:
-
+**Risk Management:**
 High-balance customers in certain grades pose higher risks, requiring targeted risk mitigation strategies.
 
-Marketing and Customer Engagement:
-
+**Marketing and Customer Engagement:**
 Tailored marketing strategies can boost verification rates and expand the bank’s market presence.
 
-Strategic Expansion:
-
+**Strategic Expansion:**
 Careful evaluation of new markets is essential to sustain growth without compromising loan quality.
 
-Operational Efficiency:
-
+**Operational Efficiency:**
 Aligning resources with demand peaks can enhance customer satisfaction and operational efficiency.
 
-Data Quality Improvement:
-
+**Data Quality Improvement:**
 Addressing data inconsistencies and duplicates will enhance the reliability of insights.
 
-Conclusion:
-
+**Conclusion:**
 Insights highlight opportunities for targeted marketing, resource planning, and product diversification to optimize the bank’s loan portfolio and mitigate risks.
