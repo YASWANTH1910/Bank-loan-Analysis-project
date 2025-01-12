@@ -1,8 +1,10 @@
 # Bank-loan-Analysis-project
 **Project Overview**
+
 The project analyzes bank loan data using Excel, Power BI, Tableau, and SQL. It focuses on identifying trends, patterns, and actionable recommendations through various KPIs and dashboards.
 
 **Key Insights and Recommendations**
+
 Year-wise Loan Analysis:
 
 Gradual growth in loan amounts from 2007 to 2009, followed by a significant spike in 2010 and 2011.
